@@ -6,5 +6,6 @@ namespace PIS1
 {
     class NewClass
     {
+        //evo moja promjena kao mali collision
     }
 }
